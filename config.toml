@@ -1,104 +1,197 @@
-title = "Splash Screen Demo"
-baseURL = "https://rowland007.github.io/splash-screen"
+# Site settings (baseurl must end with a trailing slash!)
+baseurl = "https://rowland007.github.io/splash-screen/"
 languageCode = "en-us"
-theme = "airspace-hugo"
+title = "Splash Screen Demo"
+theme = "grid-side"
+copyright = "Copyright &#169; by Randy Rowland"
 
-# The site's parameters
-[params]
-  home = "Home"
-  
-  [menu]
+# The theme uses pagination for post, gallery, and project listings.
+#paginate = 0
 
-    [[menu.header]]
-      weight = 2
-      name = "Work"
-      url = "work"
-    [[menu.header]]
-      weight = 3
-      name = "Blog"
-      url = "blog"
-    [[menu.header]]
-      weight = 4
-      name = "Service"
-      url = "service"
-    [[menu.header]]
-      weight = 5
-      name = "Contact"
-      url = "contact"
+# The theme supports disqus, which will appear only on deployed sites,
+# not locally when run with `hugo server`; as with standard Hugo disqus,
+# you can specify disqus_identifier, disqus_title, and disqus_url in the
+# front matter of specific content.
+#disqusShortname = "yourDisqusShortname"
 
-    [[menu.footer]]
-      weight = 1
-      name = "About us"
-      url = "#"
-    [[menu.footer]]
-      weight = 2
-      name = "Contact us"
-      url = "contact"
-    [[menu.footer]]
-      weight = 3
-      name = "How it works"
-      url = "work"
-    [[menu.footer]]
-      weight = 4
-      name = "Blog"
-      url = "blog"
-    [[menu.footer]]
-      weight = 5
-      name = "Terms"
-      url = "#"
+# The theme supports menus with up to one submenu per menu item
+# The menu name must be "Main"
+SectionPagesMenu = "Main"
 
-  [params.slider]
-    enable = true
-    title = "A digital marketing &amp; design agency"
-    subtitle = "We love the Web and the work we do.<br/>We work closely with our clients to deliver the best possible solutions for their needs"
-    bgImage = "img/slider-bg.jpg"
-    btnText = "Discover Our Projects"
-    url = "#"
+[Params]
+    # When set to true, will use infinite scrolling to load paginated content
+    # for posts, galleries, and projects
+    infinite_scroll = true
 
-  [params.wrapper]
-    enable = true
-    image = "img/wrapper-img.png"
-    title = "About Us"
-    italic = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-    paragraph = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id"
+    # 
+    # The post, project, and gallery sections can have infinite scroll turned
+    # on/off individually. These values override the infinte_scroll option
+    # above.
+    #
+    #[Params.Post]
+    #
+    #   infinite_scroll = false
+    #
+    #[Params.Project]
+    #
+    #   infinite_scroll = false
+    #
+    #[Params.Gallery]
+    #
+    #   infinite_scroll = false
 
-  [params.blog]
-    enable = true
-    title = "Get The Latest On What We're doing"
-    subtitle = "Catch up with us, anytime and anywhere"
+    #
+    # Optionally specify the style for highlight.js to enable it, otherwise
+    # you can use Pygments on the server side.
+    #
+    [Params.Highlight]
 
-  [params.feature]
-    enable = true
-    title = "We believe in great ideas"
-    bgImage = "img/feature-bg.jpg"
-    content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
-    [params.feature.button]
-      caption = "View Works"
-      url = "#"
+        style = "railscasts"
 
-  [params.call]
-    enable = true
-    bgImage = "img/call-to-action-bg.jpg"
-    title = "We design delightful digital experiences."
-    paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
-    [params.call.button]
-      url = "#"
-      text = "tell us your story"
+    #
+    # Contains the main grid cell of your site (such as a picture of yourself)
+    # along with your name, description, and email. Any empty field will
+    # not be included. Not providing an image will use a color. Not specifying
+    # the Header results in this cell not appearing in the site.
+    #
+    [Params.Header]
 
-  [params.contact]
-    enable = true
-    title = "Drop us a note"
-    subtitle = "Don’t just take our word for it. Check out some of our latest work."
-    [params.contact.form]
-      name = "Your name"
-      email = "Your email"
-      subject = "Your subject"
-      message = "Your message"
-      button = "Send message"
-    [params.contact.box]
-      title = "Stop by for a visit"
-      address = "North Main Street, Brooklyn Australia"
-      email = "Email: contact@mail.com"
-      phone = "Phone: +88 01672 506 744"
-    [params.contact.gmaps]
-      title = "We Also Count in Google Maps"
+        # This is optional
+        name = "Splash Screen"
+
+        # This is optional
+        description = "This was one of my very first Android projects. It was part of a course that taught the basic structure of an Android application. I used it as a starting point to some of my follow on Android projects. It is old and out of date now. Looking through the git history and files, you can see I didn't know how to use a .gitignore file as there are config files included. This project is now abandoned and will not longer be updated."
+
+        # This is optional
+        #email = "your@email.com"
+
+        # Not providing this results in a color being used
+        image = "/img/banner.jpg"
+
+        # This uses the CSS background-position, given the image above is set,
+        # useful when you want to adjust where the background-image lands
+        #image_position = "top"
+
+        # This must be provided if the image above is not
+        #color = "#FFF"
+
+    #
+    # Contains the footer of your main page and will also append items to
+    # the end of your sidebar in non-homepage pages.
+    #
+    [Params.Footer]
+
+        #
+        # Represents the list of icons and associated links to use in your
+        # footer and sidebar. Your copyright information will always be
+        # shown in the footer.
+        #
+        # The icon class is a font awesome classname.
+        #
+        #   e.g. twitter == "fa fa-twitter"
+        #
+        [[Params.Footer.List]]
+
+            icon_class = "twitter"
+            icon_link = "https://twitter.com/RandarXJ7"
+
+        [[Params.Footer.List]]
+
+            icon_class = "linkedin"
+            icon_link = "#!"
+
+        [[Params.Footer.List]]
+
+            icon_class = "google-plus"
+            icon_link = "#!"
+
+        [[Params.Footer.List]]
+
+            icon_class = "github"
+            icon_link = "#!"
+
+    #
+    # Contains the Cells representing the sections of your website. Each cell
+    # contains the name of the cell, an image depicting what the content
+    # represents, and a link to use when the cell is clicked. 
+    #
+    # Not providing an image will use the color specified by 'color' as the
+    # background color (default to #FFF).
+    #
+    # You can embed an icon using 'icon' to specify the classes to use
+    # for the icon (such as 'fa fa-flag' when using font awesome).
+    #
+    # By default, each cell has a grid size of 1/3 (4 out of 12) for large
+    # screens, 1/2 (6 out of 12) for medium screens, and 1 (12 out of 12) for
+    # small screens. To change the cell's size per screen, use the properties
+    # 'cell_large', 'cell_medium', and 'cell_small' respectively with a number
+    # ranging from 1 to 12. Make sure that Cells have nubmers equalling 12
+    # per row.
+    #
+    #[Params.Cells]
+
+        #[[Params.Cells.List]]
+
+            # The name to use with the cell, shows up on hover
+            #name = "Posts"
+
+            # The link to associate with the cell, used when clicked
+            #link = "/post/"
+
+            # The image to use as a background-image for the cell
+            #image = "/img/car.jpg"
+
+            # This uses the CSS background-position, given the image above is
+            # set, useful when you want to adjust where the background-image
+            # lands
+            #image_position = "top"
+
+            # The color to use as a fallback if an image is not provided
+            #color = "blue"
+
+            # Grays out the image (if provided), the image will be restored
+            # to normal color on hover
+            #grayscale = true
+
+            # Disables the normal cell highlight on hover
+            #no_highlight = true
+            
+            # Normally, a cell only shows text (its name) on hover, setting
+            # this to true results in the cell always showing its text
+            # and also using a dark overlay to make the white text be more
+            # visible
+            #always_show_text = true
+
+            # Grays out the cell and disables click functionality on it
+            disable = true
+
+        #[[Params.Cells.List]]
+
+            #name = "Gallery"
+            #link = "/gallery/"
+            #image = "/img/cup.jpg"
+
+        #[[Params.Cells.List]]
+
+            #name = "Projects"
+            #link = "/project/"
+            #image = "/img/drone.jpg"
+
+        #[[Params.Cells.List]]
+
+            #name = "Custom Post Section Name"
+            #link = "/custompost/"
+            #image = "/img/food.jpg"
+
+        #[[Params.Cells.List]]
+
+            #name = "Custom Gallery Section Name"
+            #link = "/customgallery/"
+            #image = "/img/jars.jpg"
+
+        #[[Params.Cells.List]]
+
+            #name = "Custom Project Section Name"
+            #link = "/customproject/"
+            #image = "/img/phone.jpg"
+
