@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag1 on Splash Screen Demo</title>
+    <link>https://rowland007.github.io/splash-screen/tags/tag1/</link>
+    <description>Recent content in tag1 on Splash Screen Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; by Randy Rowland</copyright>
+    <lastBuildDate>Wed, 29 Jul 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rowland007.github.io/splash-screen/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Info</title>
+      <link>https://rowland007.github.io/splash-screen/custompost/info/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/custompost/info/</guid>
+      <description>You can optionally set an image in the front matter of a post using image = &amp;quot;...&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Info</title>
+      <link>https://rowland007.github.io/splash-screen/post/info/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/post/info/</guid>
+      <description>You can optionally set an image in the front matter of a post using image = &amp;quot;...&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Redirect</title>
+      <link>https://rowland007.github.io/splash-screen/custompost/redirect/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/custompost/redirect/</guid>
+      <description>You can optionally set the front matter redirect = &amp;quot;url&amp;quot; to automatically redirect the content to another page.</description>
+    </item>
+    
+    <item>
+      <title>Redirect</title>
+      <link>https://rowland007.github.io/splash-screen/post/redirect/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/post/redirect/</guid>
+      <description>You can optionally set the front matter redirect = &amp;quot;url&amp;quot; to automatically redirect the content to another page.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Splash Screen Demo</title>
+    <link>https://rowland007.github.io/splash-screen/</link>
+    <description>Recent content on Splash Screen Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; by Randy Rowland</copyright>
+    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://rowland007.github.io/splash-screen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Video</title>
+      <link>https://rowland007.github.io/splash-screen/customproject/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customproject/video/</guid>
+      <description>Videos can be provided via:
+video_mp4 = &amp;quot;/vid/vid_480x320.mp4&amp;quot; video_webm = &amp;quot;/vid/vid_480x320.webm&amp;quot; video_ogv = &amp;quot;/vid/vid_480x320.ogv&amp;quot; video_3gp = &amp;quot;/vid/vid_352x288.3gp&amp;quot; video_fallback = &amp;quot;/img/car.jpg&amp;quot;  Each value is optional. If the fallback image is provided, it will be used as both the poster of the video and the fallback if the browser does not support HTML5 video.
+You can use the partial for a video via:
+.Scratch.Set &amp;quot;class&amp;quot; &amp;quot;some extra CSS classes on video tag&amp;quot; {{ partial &amp;quot;extra/video.</description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>https://rowland007.github.io/splash-screen/project/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/project/video/</guid>
+      <description>Videos can be provided via:
+video_mp4 = &amp;quot;/vid/vid_480x320.mp4&amp;quot; video_webm = &amp;quot;/vid/vid_480x320.webm&amp;quot; video_ogv = &amp;quot;/vid/vid_480x320.ogv&amp;quot; video_3gp = &amp;quot;/vid/vid_352x288.3gp&amp;quot; video_fallback = &amp;quot;/img/car.jpg&amp;quot;  Each value is optional. If the fallback image is provided, it will be used as both the poster of the video and the fallback if the browser does not support HTML5 video.
+You can use the partial for a video via:
+.Scratch.Set &amp;quot;class&amp;quot; &amp;quot;some extra CSS classes on video tag&amp;quot; {{ partial &amp;quot;extra/video.</description>
+    </item>
+    
+    <item>
+      <title>Migrate from Jekyll</title>
+      <link>https://rowland007.github.io/splash-screen/blog/migrate-from-jekyll/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/blog/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Hugo is for lovers</title>
+      <link>https://rowland007.github.io/splash-screen/blog/hugo-is-for-lovers/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/blog/hugo-is-for-lovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Info</title>
+      <link>https://rowland007.github.io/splash-screen/custompost/info/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/custompost/info/</guid>
+      <description>You can optionally set an image in the front matter of a post using image = &amp;quot;...&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Info</title>
+      <link>https://rowland007.github.io/splash-screen/post/info/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/post/info/</guid>
+      <description>You can optionally set an image in the front matter of a post using image = &amp;quot;...&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Redirect</title>
+      <link>https://rowland007.github.io/splash-screen/custompost/redirect/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/custompost/redirect/</guid>
+      <description>You can optionally set the front matter redirect = &amp;quot;url&amp;quot; to automatically redirect the content to another page.</description>
+    </item>
+    
+    <item>
+      <title>Redirect</title>
+      <link>https://rowland007.github.io/splash-screen/post/redirect/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/post/redirect/</guid>
+      <description>You can optionally set the front matter redirect = &amp;quot;url&amp;quot; to automatically redirect the content to another page.</description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/customgallery/anothercar/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customgallery/anothercar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/customgallery/anothercup/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customgallery/anothercup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/customgallery/anotherdrone/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customgallery/anotherdrone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/customgallery/anotherfood/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customgallery/anotherfood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/customgallery/anotherjars/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customgallery/anotherjars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/customgallery/anotherphone/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customgallery/anotherphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/customgallery/car/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customgallery/car/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/customgallery/cup/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customgallery/cup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/customgallery/drone/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customgallery/drone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/customgallery/food/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customgallery/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/customgallery/jars/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customgallery/jars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/customgallery/phone/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customgallery/phone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/gallery/anothercar/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/gallery/anothercar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/gallery/anothercup/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/gallery/anothercup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/gallery/anotherdrone/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/gallery/anotherdrone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/gallery/anotherfood/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/gallery/anotherfood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/gallery/anotherjars/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/gallery/anotherjars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/gallery/anotherphone/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/gallery/anotherphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/gallery/car/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/gallery/car/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/gallery/cup/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/gallery/cup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/gallery/drone/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/gallery/drone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/gallery/food/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/gallery/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/gallery/jars/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/gallery/jars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>https://rowland007.github.io/splash-screen/gallery/phone/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/gallery/phone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/custompost/eight/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/custompost/eight/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/custompost/eleven/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/custompost/eleven/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/custompost/five/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/custompost/five/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/custompost/four/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/custompost/four/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/custompost/nine/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/custompost/nine/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/custompost/one/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/custompost/one/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/custompost/seven/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/custompost/seven/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/custompost/six/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/custompost/six/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/custompost/ten/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/custompost/ten/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/custompost/three/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/custompost/three/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/custompost/twelve/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/custompost/twelve/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/custompost/two/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/custompost/two/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/post/eight/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/post/eight/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/post/eleven/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/post/eleven/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/post/five/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/post/five/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/post/four/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/post/four/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/post/nine/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/post/nine/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/post/one/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/post/one/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/post/seven/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/post/seven/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/post/six/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/post/six/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/post/ten/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/post/ten/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/post/three/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/post/three/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/post/twelve/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/post/twelve/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://rowland007.github.io/splash-screen/post/two/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/post/two/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>Creating a new theme</title>
+      <link>https://rowland007.github.io/splash-screen/blog/creating-a-new-theme/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/blog/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>How To Setup Airspace Hugo</title>
+      <link>https://rowland007.github.io/splash-screen/blog/installation/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/blog/installation/</guid>
+      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer. hugo install documentation
+STEP-2 : Create your project Hugo provides a new command to create a new website.
+hugo new site &amp;lt;new_project&amp;gt;  STEP-3 : Install the theme Run this command
+hugo new site airspace-hugo  and then go to the themes folder inside of airspace-hugo folder. You can also use this command cd airspace-hugo/themes for going to this folder.</description>
+    </item>
+    
+    <item>
+      <title>Another Car</title>
+      <link>https://rowland007.github.io/splash-screen/customproject/anothercar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customproject/anothercar/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Another Car</title>
+      <link>https://rowland007.github.io/splash-screen/project/anothercar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/project/anothercar/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Another Cup</title>
+      <link>https://rowland007.github.io/splash-screen/customproject/anothercup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customproject/anothercup/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Another Cup</title>
+      <link>https://rowland007.github.io/splash-screen/project/anothercup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/project/anothercup/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Car</title>
+      <link>https://rowland007.github.io/splash-screen/customproject/car/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customproject/car/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Car</title>
+      <link>https://rowland007.github.io/splash-screen/project/car/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/project/car/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://rowland007.github.io/splash-screen/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cup</title>
+      <link>https://rowland007.github.io/splash-screen/customproject/cup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customproject/cup/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Cup</title>
+      <link>https://rowland007.github.io/splash-screen/project/cup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/project/cup/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Drone</title>
+      <link>https://rowland007.github.io/splash-screen/customproject/anotherdrone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customproject/anotherdrone/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Drone</title>
+      <link>https://rowland007.github.io/splash-screen/customproject/drone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customproject/drone/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Drone</title>
+      <link>https://rowland007.github.io/splash-screen/project/anotherdrone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/project/anotherdrone/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Drone</title>
+      <link>https://rowland007.github.io/splash-screen/project/drone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/project/drone/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://rowland007.github.io/splash-screen/customproject/anotherfood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customproject/anotherfood/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://rowland007.github.io/splash-screen/customproject/food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customproject/food/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://rowland007.github.io/splash-screen/project/anotherfood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/project/anotherfood/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://rowland007.github.io/splash-screen/project/food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/project/food/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Jars</title>
+      <link>https://rowland007.github.io/splash-screen/customproject/anotherjars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customproject/anotherjars/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Jars</title>
+      <link>https://rowland007.github.io/splash-screen/customproject/jars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customproject/jars/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Jars</title>
+      <link>https://rowland007.github.io/splash-screen/project/anotherjars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/project/anotherjars/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Jars</title>
+      <link>https://rowland007.github.io/splash-screen/project/jars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/project/jars/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Phone</title>
+      <link>https://rowland007.github.io/splash-screen/customproject/anotherphone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customproject/anotherphone/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Phone</title>
+      <link>https://rowland007.github.io/splash-screen/customproject/phone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customproject/phone/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Phone</title>
+      <link>https://rowland007.github.io/splash-screen/project/anotherphone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/project/anotherphone/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Phone</title>
+      <link>https://rowland007.github.io/splash-screen/project/phone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/project/phone/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>https://rowland007.github.io/splash-screen/service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>https://rowland007.github.io/splash-screen/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/work/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

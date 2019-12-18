@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Splash Screen Demo</title>
+    <link>https://rowland007.github.io/splash-screen/categories/</link>
+    <description>Recent content in Categories on Splash Screen Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; by Randy Rowland</copyright>
+    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://rowland007.github.io/splash-screen/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>lorem</title>
+      <link>https://rowland007.github.io/splash-screen/categories/lorem/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/categories/lorem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pseudo</title>
+      <link>https://rowland007.github.io/splash-screen/categories/pseudo/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/categories/pseudo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>category1</title>
+      <link>https://rowland007.github.io/splash-screen/categories/category1/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/categories/category1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>category2</title>
+      <link>https://rowland007.github.io/splash-screen/categories/category2/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/categories/category2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>category3</title>
+      <link>https://rowland007.github.io/splash-screen/categories/category3/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/categories/category3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>starting</title>
+      <link>https://rowland007.github.io/splash-screen/categories/starting/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/categories/starting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>car</title>
+      <link>https://rowland007.github.io/splash-screen/categories/car/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/categories/car/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cup</title>
+      <link>https://rowland007.github.io/splash-screen/categories/cup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/categories/cup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drone</title>
+      <link>https://rowland007.github.io/splash-screen/categories/drone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/categories/drone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>food</title>
+      <link>https://rowland007.github.io/splash-screen/categories/food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/categories/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jars</title>
+      <link>https://rowland007.github.io/splash-screen/categories/jars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/categories/jars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phone</title>
+      <link>https://rowland007.github.io/splash-screen/categories/phone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/categories/phone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video</title>
+      <link>https://rowland007.github.io/splash-screen/categories/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/categories/video/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

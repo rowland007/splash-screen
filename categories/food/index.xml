@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>food on Splash Screen Demo</title>
+    <link>https://rowland007.github.io/splash-screen/categories/food/</link>
+    <description>Recent content in food on Splash Screen Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; by Randy Rowland</copyright>
+    
+	<atom:link href="https://rowland007.github.io/splash-screen/categories/food/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Food</title>
+      <link>https://rowland007.github.io/splash-screen/customproject/anotherfood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customproject/anotherfood/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://rowland007.github.io/splash-screen/customproject/food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/customproject/food/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://rowland007.github.io/splash-screen/project/anotherfood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/project/anotherfood/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://rowland007.github.io/splash-screen/project/food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowland007.github.io/splash-screen/project/food/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+  </channel>
+</rss>
