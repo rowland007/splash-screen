@@ -1,5 +1,5 @@
-title = "Airspace for Hugo"
-baseURL = "https://examplesite.com"
+title = "Splash Screen Demo"
+baseURL = "https://rowland007.github.io/splash-screen"
 languageCode = "en-us"
 theme = "airspace-hugo"
 
